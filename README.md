@@ -1,0 +1,1 @@
+JWT-based authentication app created with React & Express
